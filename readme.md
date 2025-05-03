@@ -1,4 +1,4 @@
-# Emotion Detection Using CNNs with Real-Time Inference via OpenCV and Flask
+# Emotion Detection Using CNNs with Real-Time Inference via OpenCV
 
 **Project Codename**: Emoxlas 💎
 
